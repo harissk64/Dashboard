@@ -58,5 +58,5 @@ Key Performance Indicators (KPIs):
 ![Super Store Sales Dashboard](Store%20sales%20dashboard.png)
 
 ### 15 Days Sales Forecast Dashboard
-![15 Days Sales Forecast](Store%20sales%20forecast.png)
+(https://github.com/harissk64/Dashboard/blob/main/Store%20sales%20Dashboard%20.png)
 

@@ -1,4 +1,4 @@
-# Dashboard
+# Power BI Dashboard
 # Super Store Sales & 15 Days Sales Forecast Dashboard
 
 ## Project Overview
